@@ -1,0 +1,14 @@
+.menu-list {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    background-color: black;
+}
+.menu-item a {
+    text-decoration: none;
+    color: wheat;
+}
+.menu-item a:hover {
+    color: red;
+    font-size: 22px;
+}
